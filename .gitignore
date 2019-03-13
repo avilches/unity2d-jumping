@@ -1,5 +1,7 @@
 .vs/
 .idea/
+Assets/Plugins/Editor/JetBrains.meta
+Assets/Plugins/Editor/JetBrains/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ibrary/
