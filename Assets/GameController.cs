@@ -11,7 +11,12 @@ public class GameController : MonoBehaviour {
     public float speed = 0.2F;
     public Canvas startTitle;
     private GameObject player;
+    [SerializeField] private GameObject enemy;
+    [SerializeField] float minSpawn;
+    [SerializeField] float maxSpawn;
+    [SerializeField] private bool spawner = true;
 
+    private List<GameObject> pool = new List<GameObject>();
 
     public enum State {
         idle,
@@ -24,6 +29,11 @@ public class GameController : MonoBehaviour {
     void Start() {
         state = State.idle;
         player = GameObject.Find("Player");
+        player.GetComponent<PlayerController>().deaths += OnDeath;
+
+        for (int i = 0; i < 2; i++) {
+            pool.Add(CreateEnemy());
+        }
     }
 
     // Update is called once per frame
@@ -44,8 +54,70 @@ public class GameController : MonoBehaviour {
         }
     }
 
+    private void Spawner() {
+        if (IsPlaying() && spawner) {
+            GameObject enemyI = GetEnemy();
+            enemyI.SetActive(true);
+            enemyI.transform.position = new Vector3(10f, -3.57F, 0F);
+            enemyI.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Kinematic;
+            enemyI.GetComponent<Rigidbody2D>().velocity = Vector2.left * 7f;
+            float nextShootTime = Random.Range(minSpawn, maxSpawn);
+            Invoke("Spawner", nextShootTime);
+        }
+    }
+
+    private GameObject GetEnemy() {
+        for (int i = 0; i < pool.Count; i++) {
+            if (!pool[i].activeInHierarchy) {
+                return pool[i];
+            }
+        }
+        Debug.Log("OPS");
+
+        var e = CreateEnemy();
+        pool.Add(e);
+        return e;
+    }
+
+    private int created = 0;
+    private int outs = 0;
+    private GameObject CreateEnemy() {
+        Debug.Log("Create enemy");
+        var e = Instantiate(enemy, transform.position, Quaternion.identity);
+        e.transform.parent = gameObject.transform;
+        e.SetActive(false);
+        return e;
+    }
+
+    public void RecycleEnemy(GameObject o) {
+        o.SetActive(false);
+    }
+
+    private void OnDeath(GameObject culprit) {
+        StopGame();
+        foreach (Transform t in transform) {
+            if (t.gameObject == culprit) {
+                t.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic;
+                t.GetComponent<Rigidbody2D>().velocity = new Vector2(12F, 2F);
+                StartCoroutine(DestroyEnemyForever(t.gameObject));
+            } else {
+                RecycleEnemy(t.gameObject);
+            }
+        }
+    }
+
+    private IEnumerator DestroyEnemyForever(GameObject tGameObject) {
+        yield return new WaitForSeconds(1F);
+        RecycleEnemy(tGameObject);
+    }
+
+    private bool IsPlaying() {
+        return state == State.playing;
+    }
+
     private void StopGame() {
         state = State.idle;
+        player.GetComponent<PlayerController>().State = state;
         ground.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
         ground2.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
         player.GetComponent<Animator>().Play("Player_idle");
@@ -53,9 +125,11 @@ public class GameController : MonoBehaviour {
 
     private void StartGame() {
         state = State.playing;
+        player.GetComponent<PlayerController>().State = state;
         ground.GetComponent<Rigidbody2D>().velocity = new Vector2(-4F, 0);
         ground2.GetComponent<Rigidbody2D>().velocity = new Vector2(-4F, 0);
         player.GetComponent<Animator>().Play("Player_run");
+        Spawner();
 
     }
 

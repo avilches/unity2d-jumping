@@ -1,0 +1,5508 @@
+fileFormatVersion: 2
+guid: 736198d87b4d643358d1700242ae1cf7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mmx6_rescuablereploids_0
+    21300002: mmx6_rescuablereploids_1
+    21300004: mmx6_rescuablereploids_2
+    21300006: mmx6_rescuablereploids_3
+    21300008: mmx6_rescuablereploids_4
+    21300010: mmx6_rescuablereploids_5
+    21300012: mmx6_rescuablereploids_6
+    21300014: mmx6_rescuablereploids_7
+    21300016: mmx6_rescuablereploids_8
+    21300018: mmx6_rescuablereploids_9
+    21300020: mmx6_rescuablereploids_10
+    21300022: mmx6_rescuablereploids_11
+    21300024: mmx6_rescuablereploids_12
+    21300026: mmx6_rescuablereploids_13
+    21300028: mmx6_rescuablereploids_14
+    21300030: mmx6_rescuablereploids_15
+    21300032: mmx6_rescuablereploids_16
+    21300034: mmx6_rescuablereploids_17
+    21300036: mmx6_rescuablereploids_18
+    21300038: mmx6_rescuablereploids_19
+    21300040: mmx6_rescuablereploids_20
+    21300042: mmx6_rescuablereploids_21
+    21300044: mmx6_rescuablereploids_22
+    21300046: mmx6_rescuablereploids_23
+    21300048: mmx6_rescuablereploids_24
+    21300050: mmx6_rescuablereploids_25
+    21300052: mmx6_rescuablereploids_26
+    21300054: mmx6_rescuablereploids_27
+    21300056: mmx6_rescuablereploids_28
+    21300058: mmx6_rescuablereploids_29
+    21300060: mmx6_rescuablereploids_30
+    21300062: mmx6_rescuablereploids_31
+    21300064: mmx6_rescuablereploids_32
+    21300066: mmx6_rescuablereploids_33
+    21300068: mmx6_rescuablereploids_34
+    21300070: mmx6_rescuablereploids_35
+    21300072: mmx6_rescuablereploids_36
+    21300074: mmx6_rescuablereploids_37
+    21300076: mmx6_rescuablereploids_38
+    21300078: mmx6_rescuablereploids_39
+    21300080: mmx6_rescuablereploids_40
+    21300082: mmx6_rescuablereploids_41
+    21300084: mmx6_rescuablereploids_42
+    21300086: mmx6_rescuablereploids_43
+    21300088: mmx6_rescuablereploids_44
+    21300090: mmx6_rescuablereploids_45
+    21300092: mmx6_rescuablereploids_46
+    21300094: mmx6_rescuablereploids_47
+    21300096: mmx6_rescuablereploids_48
+    21300098: mmx6_rescuablereploids_49
+    21300100: mmx6_rescuablereploids_50
+    21300102: mmx6_rescuablereploids_51
+    21300104: mmx6_rescuablereploids_52
+    21300106: mmx6_rescuablereploids_53
+    21300108: mmx6_rescuablereploids_54
+    21300110: mmx6_rescuablereploids_55
+    21300112: mmx6_rescuablereploids_56
+    21300114: mmx6_rescuablereploids_57
+    21300116: mmx6_rescuablereploids_58
+    21300118: mmx6_rescuablereploids_59
+    21300120: mmx6_rescuablereploids_60
+    21300122: mmx6_rescuablereploids_61
+    21300124: mmx6_rescuablereploids_62
+    21300126: mmx6_rescuablereploids_63
+    21300128: mmx6_rescuablereploids_64
+    21300130: mmx6_rescuablereploids_65
+    21300132: mmx6_rescuablereploids_66
+    21300134: mmx6_rescuablereploids_67
+    21300136: mmx6_rescuablereploids_68
+    21300138: mmx6_rescuablereploids_69
+    21300140: mmx6_rescuablereploids_70
+    21300142: mmx6_rescuablereploids_71
+    21300144: mmx6_rescuablereploids_72
+    21300146: mmx6_rescuablereploids_73
+    21300148: mmx6_rescuablereploids_74
+    21300150: mmx6_rescuablereploids_75
+    21300152: mmx6_rescuablereploids_76
+    21300154: mmx6_rescuablereploids_77
+    21300156: mmx6_rescuablereploids_78
+    21300158: mmx6_rescuablereploids_79
+    21300160: mmx6_rescuablereploids_80
+    21300162: mmx6_rescuablereploids_81
+    21300164: mmx6_rescuablereploids_82
+    21300166: mmx6_rescuablereploids_83
+    21300168: mmx6_rescuablereploids_84
+    21300170: mmx6_rescuablereploids_85
+    21300172: mmx6_rescuablereploids_86
+    21300174: mmx6_rescuablereploids_87
+    21300176: mmx6_rescuablereploids_88
+    21300178: mmx6_rescuablereploids_89
+    21300180: mmx6_rescuablereploids_90
+    21300182: mmx6_rescuablereploids_91
+    21300184: mmx6_rescuablereploids_92
+    21300186: mmx6_rescuablereploids_93
+    21300188: mmx6_rescuablereploids_94
+    21300190: mmx6_rescuablereploids_95
+    21300192: mmx6_rescuablereploids_96
+    21300194: mmx6_rescuablereploids_97
+    21300196: mmx6_rescuablereploids_98
+    21300198: mmx6_rescuablereploids_99
+    21300200: mmx6_rescuablereploids_100
+    21300202: mmx6_rescuablereploids_101
+    21300204: mmx6_rescuablereploids_102
+    21300206: mmx6_rescuablereploids_103
+    21300208: mmx6_rescuablereploids_104
+    21300210: mmx6_rescuablereploids_105
+    21300212: mmx6_rescuablereploids_106
+    21300214: mmx6_rescuablereploids_107
+    21300216: mmx6_rescuablereploids_108
+    21300218: mmx6_rescuablereploids_109
+    21300220: mmx6_rescuablereploids_110
+    21300222: mmx6_rescuablereploids_111
+    21300224: mmx6_rescuablereploids_112
+    21300226: mmx6_rescuablereploids_113
+    21300228: mmx6_rescuablereploids_114
+    21300230: mmx6_rescuablereploids_115
+    21300232: mmx6_rescuablereploids_116
+    21300234: mmx6_rescuablereploids_117
+    21300236: mmx6_rescuablereploids_118
+    21300238: mmx6_rescuablereploids_119
+    21300240: mmx6_rescuablereploids_120
+    21300242: mmx6_rescuablereploids_121
+    21300244: mmx6_rescuablereploids_122
+    21300246: mmx6_rescuablereploids_123
+    21300248: mmx6_rescuablereploids_124
+    21300250: mmx6_rescuablereploids_125
+    21300252: mmx6_rescuablereploids_126
+    21300254: mmx6_rescuablereploids_127
+    21300256: mmx6_rescuablereploids_128
+    21300258: mmx6_rescuablereploids_129
+    21300260: mmx6_rescuablereploids_130
+    21300262: mmx6_rescuablereploids_131
+    21300264: mmx6_rescuablereploids_132
+    21300266: mmx6_rescuablereploids_133
+    21300268: mmx6_rescuablereploids_134
+    21300270: mmx6_rescuablereploids_135
+    21300272: mmx6_rescuablereploids_136
+    21300274: mmx6_rescuablereploids_137
+    21300276: mmx6_rescuablereploids_138
+    21300278: mmx6_rescuablereploids_139
+    21300280: mmx6_rescuablereploids_140
+    21300282: mmx6_rescuablereploids_141
+    21300284: mmx6_rescuablereploids_142
+    21300286: mmx6_rescuablereploids_143
+    21300288: mmx6_rescuablereploids_144
+    21300290: mmx6_rescuablereploids_145
+    21300292: mmx6_rescuablereploids_146
+    21300294: mmx6_rescuablereploids_147
+    21300296: mmx6_rescuablereploids_148
+    21300298: mmx6_rescuablereploids_149
+    21300300: mmx6_rescuablereploids_150
+    21300302: mmx6_rescuablereploids_151
+    21300304: mmx6_rescuablereploids_152
+    21300306: mmx6_rescuablereploids_153
+    21300308: mmx6_rescuablereploids_154
+    21300310: mmx6_rescuablereploids_155
+    21300312: mmx6_rescuablereploids_156
+    21300314: mmx6_rescuablereploids_157
+    21300316: mmx6_rescuablereploids_158
+    21300318: mmx6_rescuablereploids_159
+    21300320: mmx6_rescuablereploids_160
+    21300322: mmx6_rescuablereploids_161
+    21300324: mmx6_rescuablereploids_162
+    21300326: mmx6_rescuablereploids_163
+    21300328: mmx6_rescuablereploids_164
+    21300330: mmx6_rescuablereploids_165
+    21300332: mmx6_rescuablereploids_166
+    21300334: mmx6_rescuablereploids_167
+    21300336: mmx6_rescuablereploids_168
+    21300338: mmx6_rescuablereploids_169
+    21300340: mmx6_rescuablereploids_170
+    21300342: mmx6_rescuablereploids_171
+    21300344: mmx6_rescuablereploids_172
+    21300346: mmx6_rescuablereploids_173
+    21300348: mmx6_rescuablereploids_174
+    21300350: mmx6_rescuablereploids_175
+    21300352: mmx6_rescuablereploids_176
+    21300354: mmx6_rescuablereploids_177
+    21300356: mmx6_rescuablereploids_178
+    21300358: mmx6_rescuablereploids_179
+    21300360: mmx6_rescuablereploids_180
+    21300362: mmx6_rescuablereploids_181
+    21300364: mmx6_rescuablereploids_182
+    21300366: mmx6_rescuablereploids_183
+    21300368: mmx6_rescuablereploids_184
+    21300370: mmx6_rescuablereploids_185
+    21300372: mmx6_rescuablereploids_186
+    21300374: mmx6_rescuablereploids_187
+    21300376: mmx6_rescuablereploids_188
+    21300378: mmx6_rescuablereploids_189
+    21300380: mmx6_rescuablereploids_190
+    21300382: mmx6_rescuablereploids_191
+    21300384: mmx6_rescuablereploids_192
+    21300386: mmx6_rescuablereploids_193
+    21300388: mmx6_rescuablereploids_194
+    21300390: mmx6_rescuablereploids_195
+    21300392: mmx6_rescuablereploids_196
+    21300394: mmx6_rescuablereploids_197
+    21300396: mmx6_rescuablereploids_198
+    21300398: mmx6_rescuablereploids_199
+    21300400: mmx6_rescuablereploids_200
+    21300402: mmx6_rescuablereploids_201
+    21300404: mmx6_rescuablereploids_202
+    21300406: mmx6_rescuablereploids_203
+    21300408: mmx6_rescuablereploids_204
+    21300410: mmx6_rescuablereploids_205
+    21300412: mmx6_rescuablereploids_206
+    21300414: mmx6_rescuablereploids_207
+    21300416: mmx6_rescuablereploids_208
+    21300418: mmx6_rescuablereploids_209
+    21300420: mmx6_rescuablereploids_210
+    21300422: mmx6_rescuablereploids_211
+    21300424: mmx6_rescuablereploids_212
+    21300426: mmx6_rescuablereploids_213
+    21300428: mmx6_rescuablereploids_214
+    21300430: mmx6_rescuablereploids_215
+    21300432: mmx6_rescuablereploids_216
+    21300434: mmx6_rescuablereploids_217
+    21300436: mmx6_rescuablereploids_218
+    21300438: mmx6_rescuablereploids_219
+    21300440: mmx6_rescuablereploids_220
+    21300442: mmx6_rescuablereploids_221
+    21300444: mmx6_rescuablereploids_222
+    21300446: mmx6_rescuablereploids_223
+    21300448: mmx6_rescuablereploids_224
+    21300450: mmx6_rescuablereploids_225
+    21300452: mmx6_rescuablereploids_226
+    21300454: mmx6_rescuablereploids_227
+    21300456: mmx6_rescuablereploids_228
+    21300458: mmx6_rescuablereploids_229
+    21300460: mmx6_rescuablereploids_230
+    21300462: mmx6_rescuablereploids_231
+    21300464: mmx6_rescuablereploids_232
+    21300466: mmx6_rescuablereploids_233
+    21300468: mmx6_rescuablereploids_234
+    21300470: mmx6_rescuablereploids_235
+    21300472: mmx6_rescuablereploids_236
+    21300474: mmx6_rescuablereploids_237
+    21300476: mmx6_rescuablereploids_238
+    21300478: mmx6_rescuablereploids_239
+    21300480: mmx6_rescuablereploids_240
+    21300482: mmx6_rescuablereploids_241
+    21300484: mmx6_rescuablereploids_242
+    21300486: mmx6_rescuablereploids_243
+    21300488: mmx6_rescuablereploids_244
+    21300490: mmx6_rescuablereploids_245
+    21300492: mmx6_rescuablereploids_246
+    21300494: mmx6_rescuablereploids_247
+    21300496: mmx6_rescuablereploids_248
+    21300498: mmx6_rescuablereploids_249
+    21300500: mmx6_rescuablereploids_250
+    21300502: mmx6_rescuablereploids_251
+    21300504: mmx6_rescuablereploids_252
+    21300506: mmx6_rescuablereploids_253
+    21300508: mmx6_rescuablereploids_254
+    21300510: mmx6_rescuablereploids_255
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_0
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1058
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0fc8778411649aa97d4525f5a05e31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1058
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3e75bc5cce84b90b709d5661d4416b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1058
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfd782e9e3bc4678acf2cdc45fc0cdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1058
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af35eca3dae4f47eb94a9fa2233edcce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1058
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc1ad05243f948bab927a996e798b23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1058
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feec1e51c168a49829e8842910282970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1058
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1739086eb4c0d4d90bbb9b0f35f3a0ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1058
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69025fb34d7bf4d08bcaede94ff2d37a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1058
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e82eda6670a04592a64781ecd5d9daf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1058
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6482caaa1ff77480a8439808ab6f0610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1058
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c4a259a91c54b5cb62d86f6b5c8ee9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1058
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee97926a29a5a4a02a40621faf6c1a93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_12
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1058
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25b4c58b166b434bb3605cebb5c7707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1058
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02212148f3c15422789d0aa3124b7d5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1058
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e89730772adb41faac0ebe628157622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1058
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41119d987be549eeaaf44fd6d8e31be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1058
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164f33c4c024a48d196cc8ed669d5b06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1058
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e434250401e4d968a324e47629c33d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_18
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1058
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dbbe02caa794437965f4b6c3c04a33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_19
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1058
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53edf940cede448c4815a1446cda2b1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_20
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1058
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba040f18b8b143a291d7be06caffac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_21
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1058
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2779d669e42fb481db9c686a1f4a2913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_22
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1058
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb34ddf7013df4e00a52d2fa07ba4a71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_23
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1058
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2829c5fcd31e9450eb168f7a04c8c471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_24
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1058
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39edeea174264f9794a3914f9e63f54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_25
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1058
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd2e1ded6e9b4ddeb8411ed44562a0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_26
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1058
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6dc1112c35b49588bfe7bef6cbb4dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_27
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1058
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a54b60e4b6b45ee8875a4b86e988e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_28
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1058
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec6d240491f1463cafb876c1260a3c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_29
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1058
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc5b89f90c4e45f695753044aa3358f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_30
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1059
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96963090abb74df9868733a5391488b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_31
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1058
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc58143c849fc44aebc4d6cb812b8c2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_32
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1061
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e75ba68e9fb34a3eb37f9d770d5bcef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_33
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1063
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a60084ccf2c407c8a815866d0770a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_34
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1063
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27b5fed7e822469aa379d35c062e578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1026
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db3477a5b7ef4b5d8421c34e05ea40d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_36
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1026
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f907b3980c444793b52517ac7b11c5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_37
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1026
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9bb7dcd0f4f429980aa897eec48c53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_38
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1025
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415cfef84434444d192130449ad335f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1022
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56b3f9f492c54ebdb2e03ccb2af010c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_40
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1022
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573ee333098bb45dd80d59366fe49f43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1019
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d815aa4227b84335a2b39118500b196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_42
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1030
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da99a3a8f2014fd887ae02fa3ed234f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_43
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1019
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280c9f5108b0a42edbd009355b34b322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_44
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1018
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b1ffd5b83564766a783a2dc336cea7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_45
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1015
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fc1689696f6489a82fcfd5753557bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_46
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 942
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38edae6bdd39431992760e9ccc5fea2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_47
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 942
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfd575a7583b4d8aae192b735341898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 942
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d6b692dd3c44c4bafb423dee61c441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_49
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 942
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7640a06e2fb0745bab1d3489f54e211d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_50
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 942
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79074f1a586db47e391c97ca4343df7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_51
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 942
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624c5e6ba95e849b1bcdc907a2a24183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_52
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 958
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa1101daaab24ee7ade618de54909bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_53
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 947
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fccd9bac98014722bf966aee4ecc698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_54
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 920
+        width: 7
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2fce0a8b90c4dba89c31e51be2c24c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_55
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 917
+        width: 11
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8705d81412b4187a6632acb75e2867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_56
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 942
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236cea73120484f05809bd0785d198ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_57
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 942
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb048de9f31d345b895fcc953855949f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_58
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 942
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402c47fac6e644c00b06b6867bb59311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_59
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 942
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5121ecc49742d446facd128328484fce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_60
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 942
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e2b0180fbd94e7794f12a15c7c546e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_61
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 942
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a8bc3740484475fb09ad9783cbdb56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_62
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 942
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d79da7f182f042ef951093ac2ad8ad8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_63
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 942
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b123475f2c386491dbb9d8f38a3c1b28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_64
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 903
+        width: 126
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822d97125b6c447e299ff9f56c8742d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_65
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 876
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e8a092d9e8b4c18ae5a0f9121dc6cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_66
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 876
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819d5f57932d842059942cad4182afa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_67
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 876
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f620c78575f248b98d098f0847ce10f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_68
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 875
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fd74ca1d5f243a38221d8b37fc4ba8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_69
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 874
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f06a4f2895834352bd3d64ba3d01153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_70
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 874
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cb0b291552d419eab8c28139efcc2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_71
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 878
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7d9611cb53a47739df8343ba315e1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_72
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 878
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ced54e6f90434a3fb92b0a239a68aa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_73
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 878
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b54368893f343b6bd0a888ae4080ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_74
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 875
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f94f9aa5c28443abe39ac9ab4cf18f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_75
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 865
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b39f51a61c0e4a20baed81fd0ee11e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_76
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 864
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a5531ca6add42108344a2869c339da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_77
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 786
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fea9d19761ae47acaca09ff734a1f42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_78
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 786
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41888485d2991419f910b054f5de5d42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_79
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 786
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2e8006f9b1949199007d74e9436f72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_80
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 786
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57b1c893efb440b8a8f069947070fc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_81
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 786
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd125fc806ab4ae8872ecfbe8dc2023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_82
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 786
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5355ae5e3ee49ba920819c3498caf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_83
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 800
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a9b4e0ff2df4503baa7b2c7096b85b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_84
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 789
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bb2e968ec0440ab8fa9b3c73d22345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_85
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 762
+        width: 7
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7875c5bf2f6442ea586e148333ee87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_86
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 759
+        width: 11
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a58bea006ef47a5a6c78ba3d4db9bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_87
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 785
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d965853aca7441d938a1dd4386d73c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_88
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 785
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e98da579f444f01b576e547e39b261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_89
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 785
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e5df6bec9dc4c14a04a3cf82241af3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_90
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 785
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecd1f3eb7a304a398a40b1ed63fa079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_91
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 785
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b468edcc770f6403c92bcffc120a4fef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_92
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 785
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d42af696685a49309f4e890948e98da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_93
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 785
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6579914d04f3a4478bb8986078595559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_94
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 785
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a072c4d45252c42c095c5519286c19b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_95
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 744
+        width: 126
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6778d36d8104c4a129663caea9ae44df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_96
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 719
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3fb2551d1c7445fb85c764fd18983e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_97
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 719
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0d67dd7f7114905b264cd95273e29b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_98
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 719
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed789ebb1e45248d7aa08168d7ea469b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_99
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 719
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec617b9c777444e9872c394da7c73f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_100
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 719
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715769a8ddec247339b96812da14eee9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_101
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 719
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cba516905b74ad38e2065d558b2acc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_102
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 727
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b73b10657d3a4a0a81dd778434c28e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_103
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 719
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb78743a7b144c349f895ead0e6cb1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_104
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 720
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868d19d4a9a5241099df0944fc2a0ada
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_105
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 722
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0718243aa3c433d8df7d90f0f2cf23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_106
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 717
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0119eb3015e4d4985a0a1f8089e28888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_107
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 715
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f6df87b47364e0798528cd61f2363e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_108
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 719
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d52d4f12e294418895383a404bf5bca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_109
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 719
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ca3fbeb58b04df2861c0469bf7d4df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_110
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 644
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a162ad954a64b8c89e26f3ce8abe3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_111
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 644
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecff2902fa934b0c8a92f8eb9d52e03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_112
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 644
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbfd8543aaba495290fb02485642a19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_113
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 644
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c967f7992124bb39dc06268e6f4429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_114
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 644
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f071439fdd04cbfba3aeb0e0759576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_115
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 644
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d0bfb9e8b204e618277a7e7e8ad37d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_116
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 658
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b27643023c54eb5a19b0d13d21625e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_117
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 647
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd05302999884c56a945fc3888051af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 620
+        width: 7
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372c20db217c24a739a7e283cbc9782d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_119
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 617
+        width: 11
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13096cadb82724f6ba0d4ba4d3577c5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_120
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 645
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a23c173072b41b88f4e2bbc055ab74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_121
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 645
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb591965b195491f9c59970eaa38ed5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_122
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 645
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8a393c94fca4dc0bbd3db1951021bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_123
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 645
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879db1bf18fce4b06bbe88762d638563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_124
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 645
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4515cbb8bbb42f08342b8f2e286b59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_125
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 645
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e494421d405d4a59a6335eb7d7b6f7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_126
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 645
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e026f409b5641afbc77448989bbe5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_127
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 645
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf476d3a713b4066bf848501b0bc296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_128
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 602
+        width: 126
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7504155683ea4c33bc0ea9b0dfce22e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_129
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 578
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf84240673af4a9f97207172094a2d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_130
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 578
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f96306b860e4e48ad3d02c4e8e915b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_131
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 578
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6844fcf6634964b058b23fbe834762b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_132
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 578
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d13fe940f4344011bb7616f7d8003d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_133
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 577
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d93a1e2a364413c81f5c2be5ed232c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_134
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 574
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe64928e560b43b7af299d0267651dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_135
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 577
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3f2ee587eb246a68db74f6ecc81f76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_136
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 575
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14663beb5e172404790ea2517f741aeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_137
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 579
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e645a810dec834778837c1a4b277ea70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_138
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 577
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41232563048f44429ba10e0fe51f0ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_139
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 577
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50ad7925911142a68baf45126ccfff8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_140
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 572
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed8b8bd580d242c6a54d05e46eb0d2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_141
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 494
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddf9973de5194d25b528863f71c1bdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_142
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 494
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc1ea9516b4b4b3d827d9c11c0fab50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_143
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 494
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da97c0faa8ac94da2abe50685e2740bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_144
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 494
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8380225c85b471a8bcd0af9e281b7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_145
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 494
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29520ad3e44347b2826b34f53c3895c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_146
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 494
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01180783976f4d248538001c4da324c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_147
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 494
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8e7a5a3f1ca405fa532d39b1574d85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_148
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 510
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dfc2387c5034be3a051d721db51d2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_149
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 499
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14192317ed5834ae3848d93d473634d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 472
+        width: 7
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328c0767d14444ec9a54082d5abea045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_151
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 469
+        width: 11
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57da5a5f0aeb5411e9f3a8008f29fe2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_152
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 499
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09905f6fdf4104ccabb967737fd47792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_153
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 499
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523f74a0fef354d78a2ecd6ee3556b95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_154
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 499
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70820bc6d4694bd99aedadfb7e50ba6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_155
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 499
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19a44c80aa4c4707977d67d8a55c535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_156
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 499
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce36d7a65f84460d95c464f37c9bba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_157
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 499
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4519d08f58bf440509b4079650ab69cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_158
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 499
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c14d5b09b81b4237b3719d90baf062b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_159
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 499
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846efe2385dc94b38aca82eac1343c06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_160
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 453
+        width: 126
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fdbc80b2efc4d989197e2c9a7b7f77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_161
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 431
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65328d29473e4f0f9a4fe6f59fb746a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_162
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 431
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563885251a6b84b2c8ec11e64bcc1ffc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_163
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 431
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c887a5aae68ed4385bbb0fe520d23b80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_164
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 431
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188d3ec9bc1ee4bb5a5012bac7bf913c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_165
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 429
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb9b981cdb4740f89c6a61e0f2d48b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 431
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5990ca279b69f463ca61b6608f3cdd35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_167
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 431
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9e58cbe27a74cb197fc6f340090c78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_168
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 426
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b186b90b9ed424a90603014692227b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_169
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 429
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1d76608c27e4dd89286a0a4fd9a44e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_170
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 430
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fceafe74c334fbd97910edf475830c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_171
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 430
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940edef8df1874303aa9f87ec780ec8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_172
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 429
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5030c3587ab0b47f4b74f3f01d04e7cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_173
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 427
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c38b788df174d98ab305018755b550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_174
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 350
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8d8c83d482d490299897e674ebb0ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_175
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 350
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f31be0a5ad184ff2b556cb12c0c0200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_176
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 350
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8faec058fe947f2a7640cbfa2b30d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_177
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 350
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2a297614a8e47e68c2ebd334c7afe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_178
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 350
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bc5e3a895004aceaedfba402f53c5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_179
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 350
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0891012865c343d393e2a5cc12a5cb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_180
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 366
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739940b15673d46f8bc7d011c22183a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_181
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 355
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcc3075941e8420ea5f3c24cec5a1b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_182
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 328
+        width: 7
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4f08247a9f74dc7a808e23c0084c84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_183
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 325
+        width: 11
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75703812aa4f94b9b84f8ae3f9b0cc8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_184
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 348
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2263890c4ae0846d89f7afc1e074fd04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_185
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 348
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663e23114c79e49f7b99930beeaba5c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_186
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 348
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c2f08fa1fed45a196f0a33fe723d9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_187
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 348
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a976ee5f8b547479587d41f44a01048d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_188
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 348
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5f2617c93ac47c6ae390a45ffcff58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_189
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 348
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa426ec769bf4127ad83d16000bd925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_190
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 348
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d199c7a08035e4e35a6695da92874361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_191
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 348
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56085a38b12cd438a8d215e91e614242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_192
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 307
+        width: 126
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c87759371bb4b47b9a3fa95bd142b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_193
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 284
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d72a0ea3a824f0e997acb2fe2b7735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_194
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 284
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6002c5af3714035965b26da75ba965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_195
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 284
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1de3a451cb7247e7877a45159e9e497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_196
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 284
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bbfd99f2bea45efaea289d041f07c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_197
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 283
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce510756bdbaa4a5e9056bc86c255b2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_198
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849312a7161364ab0accdf0cb3ccc6db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_199
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 285
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2374c5bf7c034a3aaba2f103a429d4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_200
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 285
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a895683ab254317bbbef55b76c379f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_201
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 284
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a805a7a3a274ddf8270b79afe631b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_202
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 287
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2453550888cb44f37b32db75069f2877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_203
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 289
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e35528bfd64d2c8aad71f00f84909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_204
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 286
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d176ee5402748cfb735402d54dfbf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_205
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 280
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647340bb6997f4c93b4036da90892d44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_206
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 204
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7334984b29842b98950d1e13d19536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_207
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 204
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9b978bffc9a459e94ef38804f401bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_208
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 204
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f075153fbcd47578e641e7964099c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_209
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 204
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42f2555b262c4088877c368a6acb032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_210
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 204
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4112ae648ba94a6c9997a1a02fb4d50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_211
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 204
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc03cb4c48f4f4c7ab62328aec7e6996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_212
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 217
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92797cb43d99946469ac4652d24687d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_213
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 206
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ca2813d5b8941c9b2e289ce1fdba27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_214
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 179
+        width: 7
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b088601762f32439da4f84740307c209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_215
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 176
+        width: 11
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ac8e94392ac4d629709926f19c87b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_216
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 206
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab823932678f2404fa941183b7f7b74e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_217
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 206
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cab79d21f9041f8aa621802c7b0fac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_218
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 206
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1963a606a47b42cea081b59f040f8a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_219
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 206
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb338213c3ca44789358ef32e800317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_220
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 206
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d981f53bfcc384b6d9f26618cb3f51c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_221
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 206
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436074f9f329e4a3da594d13c5a5e397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_222
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 206
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858439c41f0b549109c3258123b8287a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_223
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 206
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a2edb3942d843d7a330a80180c3559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_224
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 158
+        width: 126
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60db2d08cd14429aa5f5891f02ac3ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_225
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 133
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d012aa054bd324f09bb6e3d822af0467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_226
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 133
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666fd5efc60fd40ef80a8261fa9e6ed6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_227
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 133
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f065e0bcd982c4384a35c7c23e765844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_228
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 133
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289bf19fccaee454181dd8368f970162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_229
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 133
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24b9c336135b4f059046d48b0539f70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_230
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 132
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420c69ffe3b334c739880f06485cf92f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_231
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 135
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a670cd1e8fdec4f888e740212b9fb144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_232
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 131
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7d40608078343248014546cde8c67e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_233
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 132
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda2d0e8e9baa41af83b054f9741dc75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_234
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 131
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fde4e9579e14a1d966ff45d189c71f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_235
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 126
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5c4bfa772094c8ebc5565be9c6d537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_236
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 123
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d1130dd723b4e9b84a721a435143da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_237
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 43
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3682c9085280a424a886fe3b23db8c18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_238
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 43
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401f69fd03e7a4d2c8e081bd91166576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_239
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 43
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2236923adc21e4c7db579382a1c08702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_240
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 43
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60ffc62200d5411fbc75cdcaaef99d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_241
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 43
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b89a381b5ecd40eba60794d76465f68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_242
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 43
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a842bfa5ad1ec43b1bb2d2e0cb4de751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_243
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 56
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43625dc28fbb54e99b57967513f2fa25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_244
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 45
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d87223258b8442aa31f5045a3bb99a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_245
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 18
+        width: 7
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d239b20b3fdf746cf9dbde06511e5995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_246
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 15
+        width: 11
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63ebd7280f324c8191da96c2aa32654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_247
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 44
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e323cb4e6534983a9794716f24b691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_248
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 44
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6433009c8ef9a4813b8b59019a9c8867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_249
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 44
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2d3271293354a62a46c8fe7533ba36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_250
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 44
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d811fca56713540aeb6107f78277846e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_251
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 44
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec4106fc233e4e78878bf7306ba7e6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_252
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 44
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcb3dd4338844e8391469a9ece9ce31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_253
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 44
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bd1ed89146c48d2aeb175db4a63e59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_254
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 44
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de07390a194fb448caa87ac63eedaaef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx6_rescuablereploids_255
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1
+        width: 126
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bbeae4506304f22a42b3a5393c489e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9ceb97677700741aaa48deded9031eff
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
