@@ -30,6 +30,7 @@ public class GameController : MonoBehaviour {
         state = State.idle;
         player = GameObject.Find("Player");
         player.GetComponent<PlayerController>().deaths += OnDeath;
+        startTitle.gameObject.SetActive(true);
 
         for (int i = 0; i < 2; i++) {
             pool.Add(CreateEnemy());
@@ -39,13 +40,11 @@ public class GameController : MonoBehaviour {
     // Update is called once per frame
     void Update() {
         if (state == State.idle) {
-            startTitle.gameObject.SetActive(true);
 
             if (Input.GetKey(KeyCode.Space)) {
                 StartGame();
             }
         } else {
-            startTitle.gameObject.SetActive(false);
             Parallax();
 
             if (Input.GetKey(KeyCode.Escape)) {
@@ -55,7 +54,7 @@ public class GameController : MonoBehaviour {
     }
 
     private void Spawner() {
-        if (IsPlaying() && spawner) {
+        if (IsPlaying()) {
             GameObject enemyI = GetEnemy();
             enemyI.SetActive(true);
             enemyI.transform.position = new Vector3(10f, -3.57F, 0F);
@@ -117,6 +116,7 @@ public class GameController : MonoBehaviour {
 
     private void StopGame() {
         state = State.idle;
+        startTitle.gameObject.SetActive(true);
         player.GetComponent<PlayerController>().State = state;
         ground.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
         ground2.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
@@ -125,11 +125,14 @@ public class GameController : MonoBehaviour {
 
     private void StartGame() {
         state = State.playing;
+        startTitle.gameObject.SetActive(false);
         player.GetComponent<PlayerController>().State = state;
-        ground.GetComponent<Rigidbody2D>().velocity = new Vector2(-4F, 0);
-        ground2.GetComponent<Rigidbody2D>().velocity = new Vector2(-4F, 0);
-        player.GetComponent<Animator>().Play("Player_run");
-        Spawner();
+        if (spawner) {
+            ground.GetComponent<Rigidbody2D>().velocity = new Vector2(-4F, 0);
+            ground2.GetComponent<Rigidbody2D>().velocity = new Vector2(-4F, 0);
+            player.GetComponent<Animator>().Play("Player_run");
+            Spawner();
+        }
 
     }
 
@@ -137,13 +140,15 @@ public class GameController : MonoBehaviour {
         var move = speed * Time.deltaTime;
         background.uvRect = new Rect(background.uvRect.x + move, 0f, 1f, 1f);
 
-        var p = ground.transform.position;
+//        var p = ground.transform.position;
 //        ground.transform.position = new Vector3(p.x - 2F* Time.deltaTime, p.y, p.z);
 //        ground.transform.position += new Vector3(- 2F* Time.deltaTime, 0, 0);
 //        ground.transform.position = new Vector3(p.x - 2F* Time.deltaTime, p.y, p.z);
 
-        repositionIfOut(ground);
-        repositionIfOut(ground2);
+        if (spawner) {
+            repositionIfOut(ground);
+            repositionIfOut(ground2);
+        }
     }
 
     private void repositionIfOut(GameObject objectWithCollider) {
