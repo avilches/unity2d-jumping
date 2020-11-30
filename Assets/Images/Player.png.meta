@@ -1,109 +1,309 @@
 fileFormatVersion: 2
 guid: 171a2cfaf4a4f4d16b2048db6b82272f
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_0
-    21300002: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_1
-    21300004: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_2
-    21300006: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_3
-    21300008: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_4
-    21300010: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_5
-    21300012: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_6
-    21300014: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_7
-    21300016: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_8
-    21300018: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_9
-    21300020: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_10
-    21300022: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_11
-    21300024: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_12
-    21300026: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_13
-    21300028: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_14
-    21300030: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_15
-    21300032: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_16
-    21300034: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_17
-    21300036: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_18
-    21300038: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_19
-    21300040: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_20
-    21300042: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_21
-    21300044: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_22
-    21300046: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_23
-    21300048: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_24
-    21300050: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_25
-    21300052: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_26
-    21300054: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_27
-    21300056: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_28
-    21300058: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_29
-    21300060: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_30
-    21300062: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_31
-    21300064: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_32
-    21300066: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_33
-    21300068: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_34
-    21300070: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_35
-    21300072: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_36
-    21300074: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_37
-    21300076: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_38
-    21300078: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_39
-    21300080: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_40
-    21300082: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_41
-    21300084: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_42
-    21300086: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_43
-    21300088: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_44
-    21300090: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_45
-    21300092: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_46
-    21300094: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_47
-    21300096: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_48
-    21300098: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_49
-    21300100: Player_0
-    21300102: Player_1
-    21300104: Player_2
-    21300106: Player_3
-    21300108: Player_4
-    21300110: Player_5
-    21300112: Player_6
-    21300114: Player_7
-    21300116: Player_8
-    21300118: Player_9
-    21300120: Player_10
-    21300122: Player_11
-    21300124: Player_12
-    21300126: Player_13
-    21300128: Player_14
-    21300130: Player_15
-    21300132: Player_16
-    21300134: Player_17
-    21300136: Player_18
-    21300138: Player_19
-    21300140: Player_20
-    21300142: Player_21
-    21300144: Player_22
-    21300146: Player_23
-    21300148: Player_24
-    21300150: Player_25
-    21300152: Player_26
-    21300154: Player_27
-    21300156: Player_28
-    21300158: Player_29
-    21300160: Player_30
-    21300162: Player_31
-    21300164: Player_32
-    21300166: Player_33
-    21300168: Player_34
-    21300170: Player_35
-    21300172: Player_36
-    21300174: Player_37
-    21300176: Player_38
-    21300178: Player_39
-    21300180: Player_40
-    21300182: Player_41
-    21300184: Player_42
-    21300186: Player_43
-    21300188: Player_44
-    21300190: Player_45
-    21300192: Player_46
-    21300194: Player_47
-    21300196: Player_48
-    21300198: Player_49
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_0
+  - first:
+      213: 21300002
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_1
+  - first:
+      213: 21300004
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_2
+  - first:
+      213: 21300006
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_3
+  - first:
+      213: 21300008
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_4
+  - first:
+      213: 21300010
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_5
+  - first:
+      213: 21300012
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_6
+  - first:
+      213: 21300014
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_7
+  - first:
+      213: 21300016
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_8
+  - first:
+      213: 21300018
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_9
+  - first:
+      213: 21300020
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_10
+  - first:
+      213: 21300022
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_11
+  - first:
+      213: 21300024
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_12
+  - first:
+      213: 21300026
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_13
+  - first:
+      213: 21300028
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_14
+  - first:
+      213: 21300030
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_15
+  - first:
+      213: 21300032
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_16
+  - first:
+      213: 21300034
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_17
+  - first:
+      213: 21300036
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_18
+  - first:
+      213: 21300038
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_19
+  - first:
+      213: 21300040
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_20
+  - first:
+      213: 21300042
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_21
+  - first:
+      213: 21300044
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_22
+  - first:
+      213: 21300046
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_23
+  - first:
+      213: 21300048
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_24
+  - first:
+      213: 21300050
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_25
+  - first:
+      213: 21300052
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_26
+  - first:
+      213: 21300054
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_27
+  - first:
+      213: 21300056
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_28
+  - first:
+      213: 21300058
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_29
+  - first:
+      213: 21300060
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_30
+  - first:
+      213: 21300062
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_31
+  - first:
+      213: 21300064
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_32
+  - first:
+      213: 21300066
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_33
+  - first:
+      213: 21300068
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_34
+  - first:
+      213: 21300070
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_35
+  - first:
+      213: 21300072
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_36
+  - first:
+      213: 21300074
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_37
+  - first:
+      213: 21300076
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_38
+  - first:
+      213: 21300078
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_39
+  - first:
+      213: 21300080
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_40
+  - first:
+      213: 21300082
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_41
+  - first:
+      213: 21300084
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_42
+  - first:
+      213: 21300086
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_43
+  - first:
+      213: 21300088
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_44
+  - first:
+      213: 21300090
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_45
+  - first:
+      213: 21300092
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_46
+  - first:
+      213: 21300094
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_47
+  - first:
+      213: 21300096
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_48
+  - first:
+      213: 21300098
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219_49
+  - first:
+      213: 21300100
+    second: Player_0
+  - first:
+      213: 21300102
+    second: Player_1
+  - first:
+      213: 21300104
+    second: Player_2
+  - first:
+      213: 21300106
+    second: Player_3
+  - first:
+      213: 21300108
+    second: Player_4
+  - first:
+      213: 21300110
+    second: Player_5
+  - first:
+      213: 21300112
+    second: Player_6
+  - first:
+      213: 21300114
+    second: Player_7
+  - first:
+      213: 21300116
+    second: Player_8
+  - first:
+      213: 21300118
+    second: Player_9
+  - first:
+      213: 21300120
+    second: Player_10
+  - first:
+      213: 21300122
+    second: Player_11
+  - first:
+      213: 21300124
+    second: Player_12
+  - first:
+      213: 21300126
+    second: Player_13
+  - first:
+      213: 21300128
+    second: Player_14
+  - first:
+      213: 21300130
+    second: Player_15
+  - first:
+      213: 21300132
+    second: Player_16
+  - first:
+      213: 21300134
+    second: Player_17
+  - first:
+      213: 21300136
+    second: Player_18
+  - first:
+      213: 21300138
+    second: Player_19
+  - first:
+      213: 21300140
+    second: Player_20
+  - first:
+      213: 21300142
+    second: Player_21
+  - first:
+      213: 21300144
+    second: Player_22
+  - first:
+      213: 21300146
+    second: Player_23
+  - first:
+      213: 21300148
+    second: Player_24
+  - first:
+      213: 21300150
+    second: Player_25
+  - first:
+      213: 21300152
+    second: Player_26
+  - first:
+      213: 21300154
+    second: Player_27
+  - first:
+      213: 21300156
+    second: Player_28
+  - first:
+      213: 21300158
+    second: Player_29
+  - first:
+      213: 21300160
+    second: Player_30
+  - first:
+      213: 21300162
+    second: Player_31
+  - first:
+      213: 21300164
+    second: Player_32
+  - first:
+      213: 21300166
+    second: Player_33
+  - first:
+      213: 21300168
+    second: Player_34
+  - first:
+      213: 21300170
+    second: Player_35
+  - first:
+      213: 21300172
+    second: Player_36
+  - first:
+      213: 21300174
+    second: Player_37
+  - first:
+      213: 21300176
+    second: Player_38
+  - first:
+      213: 21300178
+    second: Player_39
+  - first:
+      213: 21300180
+    second: Player_40
+  - first:
+      213: 21300182
+    second: Player_41
+  - first:
+      213: 21300184
+    second: Player_42
+  - first:
+      213: 21300186
+    second: Player_43
+  - first:
+      213: 21300188
+    second: Player_44
+  - first:
+      213: 21300190
+    second: Player_45
+  - first:
+      213: 21300192
+    second: Player_46
+  - first:
+      213: 21300194
+    second: Player_47
+  - first:
+      213: 21300196
+    second: Player_48
+  - first:
+      213: 21300198
+    second: Player_49
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -157,8 +357,9 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -169,7 +370,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -180,7 +382,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -191,7 +394,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -202,7 +406,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -213,6 +418,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -232,6 +438,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 85445c5e58d2f4300aeb7db6f256c892
+      internalID: 21300100
       vertices: []
       indices: 
       edges: []
@@ -252,6 +459,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2674839bffe4246f6a0b0abfca1edb9c
+      internalID: 21300102
       vertices: []
       indices: 
       edges: []
@@ -272,6 +480,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bf958c43ab9e64780aef2a846810ddb7
+      internalID: 21300104
       vertices: []
       indices: 
       edges: []
@@ -292,6 +501,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 828831269f9264e7c8e9d566e66c5de8
+      internalID: 21300106
       vertices: []
       indices: 
       edges: []
@@ -312,6 +522,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 27d628cc28efe490aa8b15aa3d4a01a2
+      internalID: 21300108
       vertices: []
       indices: 
       edges: []
@@ -332,6 +543,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 45574d471d1c8425abaefc25558b73ef
+      internalID: 21300110
       vertices: []
       indices: 
       edges: []
@@ -352,6 +564,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6468987d4e3de4ca9b6f6ddfad47c95a
+      internalID: 21300112
       vertices: []
       indices: 
       edges: []
@@ -372,6 +585,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f887d7144830c40f99bbb21301645782
+      internalID: 21300114
       vertices: []
       indices: 
       edges: []
@@ -392,6 +606,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a8b441b5b11de40ab931cda3e8c767fe
+      internalID: 21300116
       vertices: []
       indices: 
       edges: []
@@ -412,6 +627,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 469e5c2ac538f49ebbe6765734fba56d
+      internalID: 21300118
       vertices: []
       indices: 
       edges: []
@@ -432,6 +648,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 285bca75841594a4dbeb38194600558f
+      internalID: 21300120
       vertices: []
       indices: 
       edges: []
@@ -452,6 +669,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: abe1dea9efd62479b99edf18262691f3
+      internalID: 21300122
       vertices: []
       indices: 
       edges: []
@@ -472,6 +690,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cfab9abc8da53417eac25fd058ca51f2
+      internalID: 21300124
       vertices: []
       indices: 
       edges: []
@@ -492,6 +711,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3795ab9b630ef41739b6f59fc8e33d37
+      internalID: 21300126
       vertices: []
       indices: 
       edges: []
@@ -512,6 +732,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3a91377117eec43b8b40553d9b233adb
+      internalID: 21300128
       vertices: []
       indices: 
       edges: []
@@ -532,6 +753,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f8bc28bca9e2c4d3c815d86615eb166e
+      internalID: 21300130
       vertices: []
       indices: 
       edges: []
@@ -552,6 +774,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a0d07c10778284a9a9a7ede25bdd8c9a
+      internalID: 21300132
       vertices: []
       indices: 
       edges: []
@@ -572,6 +795,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 372a4a4752690432c8e9bf466519e8f0
+      internalID: 21300134
       vertices: []
       indices: 
       edges: []
@@ -592,6 +816,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c569700d36bee4bd6acd7469170179a1
+      internalID: 21300136
       vertices: []
       indices: 
       edges: []
@@ -612,6 +837,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7a1ce6ac106164c91b38dea16180020d
+      internalID: 21300138
       vertices: []
       indices: 
       edges: []
@@ -632,6 +858,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e597e296e54ce4bae9299aa4895e5372
+      internalID: 21300140
       vertices: []
       indices: 
       edges: []
@@ -652,6 +879,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 53a7d908ad57b49eeb612f6238ad82d7
+      internalID: 21300142
       vertices: []
       indices: 
       edges: []
@@ -672,6 +900,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 376ea89ab233b42e3a4f0027354fb444
+      internalID: 21300144
       vertices: []
       indices: 
       edges: []
@@ -692,6 +921,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 51bac17ba590d4be6aab27df7811718e
+      internalID: 21300146
       vertices: []
       indices: 
       edges: []
@@ -712,6 +942,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cde0c74a00eac4d4ead4fc6ad416b2b6
+      internalID: 21300148
       vertices: []
       indices: 
       edges: []
@@ -732,6 +963,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b6ef3af3cc8064fcd9255de79949a2f9
+      internalID: 21300150
       vertices: []
       indices: 
       edges: []
@@ -752,6 +984,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 94a2ec6dbed514455b3fa3c1186d7e58
+      internalID: 21300152
       vertices: []
       indices: 
       edges: []
@@ -772,6 +1005,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 748045a1c263e40758bd81e10fbd3239
+      internalID: 21300154
       vertices: []
       indices: 
       edges: []
@@ -792,6 +1026,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7f1d4fb0557fe41479b6a650f5db4c53
+      internalID: 21300156
       vertices: []
       indices: 
       edges: []
@@ -812,6 +1047,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 674b2b060d2444f66af084f39f6c958d
+      internalID: 21300158
       vertices: []
       indices: 
       edges: []
@@ -832,6 +1068,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8ce363cc27a214371b346fd99e2b414a
+      internalID: 21300160
       vertices: []
       indices: 
       edges: []
@@ -852,6 +1089,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: aa25da5cb43b54ce68c29dd90159afb5
+      internalID: 21300162
       vertices: []
       indices: 
       edges: []
@@ -872,6 +1110,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 70eac1abf71274378a18261eb6e16cda
+      internalID: 21300164
       vertices: []
       indices: 
       edges: []
@@ -892,6 +1131,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 40a0f73be9caf4627bf35d49071ebe05
+      internalID: 21300166
       vertices: []
       indices: 
       edges: []
@@ -912,6 +1152,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a07c6df15d61e4dd9bdd0386df56ce0c
+      internalID: 21300168
       vertices: []
       indices: 
       edges: []
@@ -932,6 +1173,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 683055fe1b23b4c9ab75a65d3f645144
+      internalID: 21300170
       vertices: []
       indices: 
       edges: []
@@ -952,6 +1194,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 188e5df8dabb44fc1929515ec9509234
+      internalID: 21300172
       vertices: []
       indices: 
       edges: []
@@ -972,6 +1215,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6c1f2940a96304cb0b46e67ce4c1fe4a
+      internalID: 21300174
       vertices: []
       indices: 
       edges: []
@@ -992,6 +1236,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5f03e74fe05b743b18b49163211f3e2d
+      internalID: 21300176
       vertices: []
       indices: 
       edges: []
@@ -1012,6 +1257,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7a09a91f53b01470aa2ea65b76f08a87
+      internalID: 21300178
       vertices: []
       indices: 
       edges: []
@@ -1032,6 +1278,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f9aadf62674894b3388ec738b00716cf
+      internalID: 21300180
       vertices: []
       indices: 
       edges: []
@@ -1052,6 +1299,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 61e27866ba2184f8e80fa2b3f97a8217
+      internalID: 21300182
       vertices: []
       indices: 
       edges: []
@@ -1072,6 +1320,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 61b30d420a7a64421b1388351176d6e5
+      internalID: 21300184
       vertices: []
       indices: 
       edges: []
@@ -1092,6 +1341,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6b130615ea14149b8b76dd5f7110cb1b
+      internalID: 21300186
       vertices: []
       indices: 
       edges: []
@@ -1112,6 +1362,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 49b14a9fceeef475481815c1ef654632
+      internalID: 21300188
       vertices: []
       indices: 
       edges: []
@@ -1132,6 +1383,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2e05a3d4b03ff4dbb9a0fb3a5a45fe4c
+      internalID: 21300190
       vertices: []
       indices: 
       edges: []
@@ -1152,6 +1404,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fef6885db0cff4145bca7cbe7513c4c0
+      internalID: 21300192
       vertices: []
       indices: 
       edges: []
@@ -1172,6 +1425,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 53ea706ebc439458899dee6c82dcbd1f
+      internalID: 21300194
       vertices: []
       indices: 
       edges: []
@@ -1192,6 +1446,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 49b0eefe5ee9840c48b853ba05fb5550
+      internalID: 21300196
       vertices: []
       indices: 
       edges: []
@@ -1212,6 +1467,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2b513f5e5a344409ba7ffaae0634db1c
+      internalID: 21300198
       vertices: []
       indices: 
       edges: []
@@ -1220,10 +1476,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 90e6e1253815945ab9a1b286ee048fc8
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -10,7 +10,7 @@ public class GameController : MonoBehaviour {
     public GameObject ground2;
     public float speed = 0.2F;
     public Canvas startTitle;
-    private GameObject player;
+    private PlayerController player;
     [SerializeField] private GameObject enemy;
     [SerializeField] float minSpawn;
     [SerializeField] float maxSpawn;
@@ -28,8 +28,8 @@ public class GameController : MonoBehaviour {
     // Start is called before the first frame update
     void Start() {
         state = State.idle;
-        player = GameObject.Find("Player");
-        player.GetComponent<PlayerController>().deaths += OnDeath;
+        player = GameObject.Find("Player").GetComponent<PlayerController>();
+        player.deaths += OnDeath;
         startTitle.gameObject.SetActive(true);
 
         for (int i = 0; i < 2; i++) {
@@ -54,7 +54,7 @@ public class GameController : MonoBehaviour {
     }
 
     private void Spawner() {
-        if (IsPlaying()) {
+        if (IsPlaying() && spawner) {
             GameObject enemyI = GetEnemy();
             enemyI.SetActive(true);
             enemyI.transform.position = new Vector3(10f, -3.57F, 0F);
@@ -117,22 +117,19 @@ public class GameController : MonoBehaviour {
     private void StopGame() {
         state = State.idle;
         startTitle.gameObject.SetActive(true);
-        player.GetComponent<PlayerController>().State = state;
-        ground.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
-        ground2.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
-        player.GetComponent<Animator>().Play("Player_idle");
+        //ground.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
+        //ground2.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
+        player.StopGame();
     }
 
     private void StartGame() {
         state = State.playing;
         startTitle.gameObject.SetActive(false);
-        player.GetComponent<PlayerController>().State = state;
-        if (spawner) {
-            ground.GetComponent<Rigidbody2D>().velocity = new Vector2(-4F, 0);
-            ground2.GetComponent<Rigidbody2D>().velocity = new Vector2(-4F, 0);
-            player.GetComponent<Animator>().Play("Player_run");
-            Spawner();
-        }
+        //ground.GetComponent<Rigidbody2D>().velocity = new Vector2(-4F, 0);
+        //ground2.GetComponent<Rigidbody2D>().velocity = new Vector2(-4F, 0);
+
+        player.StartGame();
+        Spawner();
 
     }
 
